@@ -1,3 +1,18 @@
+// Package clasification og Product API
+//
+// Documentation for Product API
+//
+// Squema: http
+// BasePath: /
+// Version: 1.0.0
+//
+// Consumes:
+// - application/json
+//
+// Produces:
+// - application/json
+// swagger:meta
+
 package handlers
 
 import (
